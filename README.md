@@ -1,3 +1,6 @@
 # py1
-My First Code
-i want to master python
+Hi Guys!
+
+Nafe here, i love python.py and committing to master .py
+Let began our journey
+
